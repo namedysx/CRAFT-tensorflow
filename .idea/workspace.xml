@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a1f9494-f5c3-4d92-b734-ed44600585f9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/datareader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-500">
+              <caret line="130" column="37" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/weight_aff.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/weight.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/datagen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/craft.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="122" column="25" lean-forward="true" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/upconvBlock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1025">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31850">
+              <caret line="1307" column="4" selection-start-line="1307" selection-start-column="4" selection-end-line="1307" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transpose</find>
+      <find>Path for Images</find>
+      <find>batch_n</find>
+      <find>BatchNorm</find>
+      <find>norm</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/module/vgg.py" />
+        <option value="$PROJECT_DIR$/model/vgg.py" />
+        <option value="$PROJECT_DIR$/model/dataloader.py" />
+        <option value="$PROJECT_DIR$/model/11.py" />
+        <option value="$PROJECT_DIR$/model/txt2mat.py" />
+        <option value="$PROJECT_DIR$/model/datautils.py" />
+        <option value="$PROJECT_DIR$/model/transutils.py" />
+        <option value="$PROJECT_DIR$/model/loss.py" />
+        <option value="$PROJECT_DIR$/model/test.py" />
+        <option value="$PROJECT_DIR$/model/gaussian.py" />
+        <option value="$PROJECT_DIR$/model/conver2tfrecord.py" />
+        <option value="$PROJECT_DIR$/model/train.py" />
+        <option value="$PROJECT_DIR$/model/datareader.py" />
+        <option value="$PROJECT_DIR$/model/t.py" />
+        <option value="$PROJECT_DIR$/model/upconvBlock.py" />
+        <option value="$PROJECT_DIR$/model/datagen.py" />
+        <option value="$PROJECT_DIR$/model/craft.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="72" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CRAFT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRAFT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRAFT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRAFT" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRAFT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CRAFT-pytorch" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.craft">
+    <configuration name="conver2tfrecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRAFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/conver2tfrecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="craft" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRAFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/craft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datagen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRAFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/datagen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRAFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upconvBlock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CRAFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/upconvBlock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.craft" />
+        <item itemvalue="Python.datagen" />
+        <item itemvalue="Python.t" />
+        <item itemvalue="Python.upconvBlock" />
+        <item itemvalue="Python.conver2tfrecord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1f9494-f5c3-4d92-b734-ed44600585f9" name="Default Changelist" comment="" />
+      <created>1564110657603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564110657603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="72" width="1616" height="876" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15335868" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3512786" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41588157" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49936628" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006337" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="bbox[0]" language="Python" />
+        <watch expression="bbox[1]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>bbox[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bbox[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array(weight)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s = np.array(weight)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s = np.array(weight).resize(w, h)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.array(weight).resize(w, h)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>weight.resize(w, h)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>character_bbox[total_letters+1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>character_bbox[total_letters]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>character_bbox[]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/anaconda/envs/py35/Lib/site-packages/tensorflow/contrib/layers/python/layers/layers.py" />
+    <entry file="file://D:/anaconda/envs/py35/Lib/site-packages/tensorflow/python/ops/image_ops_impl.py" />
+    <entry file="file://D:/anaconda/envs/py35/Lib/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://D:/anaconda/envs/py35/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py" />
+    <entry file="file://$PROJECT_DIR$/model/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2338">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SynthText/text_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/transutils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/datautils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/io_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="142" column="26" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/contrib/slim/python/slim/data/tfexample_decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="110" column="64" lean-forward="true" selection-start-line="108" selection-start-column="6" selection-end-line="110" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/contrib/slim/python/slim/data/parallel_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/gen_parsing_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="290" column="34" lean-forward="true" selection-start-line="290" selection-start-column="34" selection-end-line="290" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1182206618/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="10892" column="4" selection-start-line="10892" selection-start-column="4" selection-end-line="10892" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight_add.png" />
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/sparse_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/target.png" />
+    <entry file="file://$PROJECT_DIR$/model/target_affinity.png" />
+    <entry file="file://$PROJECT_DIR$/model/together.png" />
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/framework/op_def_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight_affinity.png" />
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/framework/tensor_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/my_image.png" />
+    <entry file="file://D:/anaconda/envs/sss/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/data/ops/dataset_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="311" column="48" selection-start-line="311" selection-start-column="35" selection-end-line="311" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="206" lean-forward="true" selection-start-line="206" selection-end-line="207" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/image_ops_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="201" column="4" selection-start-line="201" selection-start-column="4" selection-end-line="201" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/parsing_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="763" column="18" selection-start-line="763" selection-start-column="18" selection-end-line="763" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/gaussian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3750">
+          <caret line="152" column="69" selection-start-line="152" selection-start-column="69" selection-end-line="152" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" selection-start-line="6" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-839">
+          <caret line="595" column="4" selection-start-line="595" selection-start-column="4" selection-end-line="595" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1182206618/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1123">
+          <caret line="4449" column="8" selection-start-line="4449" selection-start-column="8" selection-end-line="4449" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1348">
+          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1199" column="51" selection-start-line="1199" selection-start-column="40" selection-end-line="1199" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/conver2tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/upconvBlock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anaconda/envs/sss/Lib/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31850">
+          <caret line="1307" column="4" selection-start-line="1307" selection-start-column="4" selection-end-line="1307" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight_512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight_aff.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/weight_aff_512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/datareader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="130" column="37" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/datagen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/craft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="122" column="25" lean-forward="true" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
