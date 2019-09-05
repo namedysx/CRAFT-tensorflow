@@ -6,10 +6,13 @@ Check your syntext dataset dir in craft.py, and change train(False) to train(Tru
 Run craft.py
 text:
 modify it
+
 if __name__ == "__main__":
     train(False)
     # test('/home/user4/ysx/demo/CRAFT_214000.ckpt', '/home/user4/ysx/CRAFT/802.jpg')
+
 TO
+
 if __name__ == "__main__":
     # train(False)
     test('/home/user4/ysx/demo/CRAFT_214000.ckpt', '/home/user4/ysx/CRAFT/802.jpg')
