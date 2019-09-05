@@ -1,7 +1,11 @@
 A implement of paper ：https://arxiv.org/abs/1904.01941
 
-useage
-train:
+Result
+
+
+Useage
+
+Train:
 Check your syntext dataset dir in craft.py, and change train(False) to train(True) at last line. 
 Run craft.py
 text:
