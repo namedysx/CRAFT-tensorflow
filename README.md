@@ -1,6 +1,11 @@
 A implement of paper ：https://arxiv.org/abs/1904.01941
 
+![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/t.jpg)
 Result
+![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/weight.jpg)
+![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/weight_aff.jpg)
+![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/res_text_image_word.jpg)
+![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/res_text_image_char.jpg)
 
 
 Useage
