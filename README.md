@@ -24,14 +24,12 @@ modify below:
 
 
 if __name__ == "__main__":
-
     train(False)
     # test('ckpt_path', 'text_image_path')
 
 TO
 
 if __name__ == "__main__":
-
     # train(False)
     test('ckpt_path', 'text_image_path')
 
