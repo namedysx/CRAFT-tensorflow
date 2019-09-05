@@ -9,13 +9,13 @@ modify it
 
 if __name__ == "__main__":
     train(False)
-    # test('/home/user4/ysx/demo/CRAFT_214000.ckpt', '/home/user4/ysx/CRAFT/802.jpg')
+    # test('ckpt_path', 'text_image_path')
 
 TO
 
 if __name__ == "__main__":
     # train(False)
-    test('/home/user4/ysx/demo/CRAFT_214000.ckpt', '/home/user4/ysx/CRAFT/802.jpg')
+    test('ckpt_path', 'text_image_path')
 
 the first argument is your .ckpt path, seconed argument is text image path
 
