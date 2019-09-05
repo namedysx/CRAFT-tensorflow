@@ -15,7 +15,7 @@ Result
 Useage
 
 Train:
-Check your syntext dataset dir in craft.py, and change train(False) to train(True) at last line. 
+Check your syntext dataset dir in datagen.py, and change train(False) to train(True) at last line. 
 Run craft.py
 
 text:
