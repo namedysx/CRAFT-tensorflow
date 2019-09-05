@@ -20,7 +20,11 @@ if __name__ == "__main__":
 the first argument is your .ckpt path, seconed argument is text image path
 
 Fine-tuning:
+
 TO DO
+
 if you want to do this, you could use train(False), it means you load a checkpoint then training
+
 Weak supervision:
+
 TO DO
