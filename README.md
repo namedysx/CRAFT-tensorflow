@@ -5,7 +5,7 @@ train:
 Check your syntext dataset dir in craft.py, and change train(False) to train(True) at last line. 
 Run craft.py
 text:
-modify it
+modify below:
 
 if __name__ == "__main__":
     train(False)
@@ -17,13 +17,13 @@ if __name__ == "__main__":
     # train(False)
     test('ckpt_path', 'text_image_path')
 
-the first argument is your .ckpt path, seconed argument is text image path
+The first argument is your .ckpt path, seconed argument is text image path.
 
 Fine-tuning:
 
 TO DO
 
-if you want to do this, you could use train(False), it means you load a checkpoint then training
+If you want to do this, you could use train(False), it means you load a checkpoint then training
 
 Weak supervision:
 
