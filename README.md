@@ -17,16 +17,21 @@ Useage
 Train:
 Check your syntext dataset dir in craft.py, and change train(False) to train(True) at last line. 
 Run craft.py
+
 text:
+
 modify below:
 
+
 if __name__ == "__main__":
+
     train(False)
     # test('ckpt_path', 'text_image_path')
 
 TO
 
 if __name__ == "__main__":
+
     # train(False)
     test('ckpt_path', 'text_image_path')
 
