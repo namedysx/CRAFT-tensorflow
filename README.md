@@ -1,5 +1,7 @@
 A implement of paper ：https://arxiv.org/abs/1904.01941
 
+This is the result of training 200,000 steps.
+
 ![image](https://github.com/namedysx/CRAFT-tensorflow/blob/master/image/image/t.jpg)
 
 Result
