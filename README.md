@@ -13,7 +13,9 @@ Result
 
 
 Useage
-
+Test:
+down ckpt
+https://drive.google.com/file/d/1-AL-T3-WucUZsWMUHqyWovuXEvqYZCi9/view?usp=drivesdk
 Train:
 Check your syntext dataset dir in datagen.py, and change train(False) to train(True) at last line. 
 Run craft.py
