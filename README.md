@@ -14,7 +14,6 @@ Result
 
 Useage
 
-Test:
 
 Down ckpt
 https://drive.google.com/file/d/1-AL-T3-WucUZsWMUHqyWovuXEvqYZCi9/view?usp=drivesdk
